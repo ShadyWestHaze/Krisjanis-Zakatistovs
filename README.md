@@ -7,7 +7,7 @@
 📚 **Constant Learner:** Constantly learning and evolving, I stay up-to-date with new technologies and methodologies to stay at the forefront of the industry.
 🤝 **Embrace Innovation:** I embrace new technologies and methodologies to adapt and innovate in the ever-evolving landscape of software development.
 
-### Other Interests
+## Other Interests
 
 1. 🌱 **Nature:** Exploring the great outdoors and appreciating the beauty of nature.
 2. 🎵 **Music:** Enjoying and discovering various genres of music.
@@ -16,11 +16,7 @@
 5. 🎮 **Game Development:** Designing and playing video games.
 6. ✈️ **Travel:** Discovering new cultures, cuisines, and landscapes through travel adventures.
 
-<div style="display: inline-flex; align-items: center;">
-    <img src="https://github.com/ShadyWestHaze/Krisjanis-Zakatistovs/raw/main/Visuals/Animation%20-%201716119691377.gif" alt="Animated Icon" style="width: 3em; height: 3em; margin-right: 0.5em;">
-    <h3 style="margin: 0;">Tools & Technologies</h3>
-</div>
-
+### 🛠️My Toolbox🧰
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
@@ -42,6 +38,5 @@
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node-dot-js&logoColor=white)
-
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShadyWestHaze&layout=compact&theme=highcontrast)
