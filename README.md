@@ -1,6 +1,6 @@
 # Hi there, I'm [Krišjānis Zakatistovs] 👋
 
-### ![Animated Icon](https://github.com/ShadyWestHaze/Krisjanis-Zakatistovs/raw/main/Visuals/icons8-tools.gif)
+### ![Animated Icon](https://github.com/ShadyWestHaze/Krisjanis-Zakatistovs/raw/main/Visuals/Animation - 1716119691377.gif)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
