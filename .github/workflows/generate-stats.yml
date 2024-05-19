@@ -13,7 +13,7 @@ jobs:
 
       - name: Generate Stats Image
         run: |
-          curl -o stats.svg "https://github-readme-stats.vercel.app/api/top-langs/?username=ShadyWestHaze&layout=compact&count_private=true&token=${{ secrets.GH_TOKEN }}"
+          curl -o stats.svg "https://github-readme-stats.vercel.app/api/top-langs/?username=ShadyWestHaze&layout=compact&count_private=true&token=YOUR_ENCODED_TOKEN"
 
       - name: Commit Stats Image
         run: |
