@@ -1,6 +1,10 @@
 # Hi there, I'm [Krišjānis Zakatistovs] 👋
 
- ### <img src="https://github.com/ShadyWestHaze/Krisjanis-Zakatistovs/raw/main/Visuals/Animation%20-%201716119691377.gif" alt="Animated Icon" style="width: 3em; height: 3em;"> Tools & Technologies  
+<div style="display: flex; align-items: center;">
+    <img src="https://github.com/ShadyWestHaze/Krisjanis-Zakatistovs/raw/main/Visuals/Animation%20-%201716119691377.gif" alt="Animated Icon" style="width: 3em; height: 3em; margin-right: 0.5em;">
+    <h3 style="margin: 0;">Tools & Technologies</h3>
+</div>
+
 
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
