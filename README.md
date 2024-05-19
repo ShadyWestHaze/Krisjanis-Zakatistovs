@@ -3,8 +3,11 @@
 ## About Me
 
 👨‍💻 **Passionate Developer:** I am a passionate software developer dedicated to creating innovative and practical digital solutions.
+
 🚀 **Thrive on Building:** With a strong foundation in Java, TypeScript, React, Spring, and databases, I thrive on building applications that make a difference.
+
 📚 **Constant Learner:** Constantly learning and evolving, I stay up-to-date with new technologies and methodologies to stay at the forefront of the industry.
+
 🤝 **Embrace Innovation:** I embrace new technologies and methodologies to adapt and innovate in the ever-evolving landscape of software development.
 
 ## Other Interests
