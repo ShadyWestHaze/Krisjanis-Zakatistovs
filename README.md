@@ -12,12 +12,17 @@
 
 ## Other Interests
 
-1. 🌱 **Nature:** Exploring the great outdoors and appreciating the beauty of nature.
-2. 🎵 **Music:** Enjoying and discovering various genres of music.
-3. 🏛️ **Ancient History:** Delving into the mysteries of ancient civilizations.
-4. 🎨 **Art:** Appreciating art in various forms, from traditional to digital.
-5. 🎮 **Game Development:** Designing and playing video games.
-6. ✈️ **Travel:** Discovering new cultures, cuisines, and landscapes through travel adventures.
+🌱 **Nature:** Exploring the great outdoors and appreciating the beauty of nature.
+
+🎵 **Music:** Enjoying and discovering various genres of music.
+
+🏛️ **Ancient History:** Delving into the mysteries of ancient civilizations.
+
+🎨 **Art:** Appreciating art in various forms, from traditional to digital.
+
+🎮 **Game Development:** Designing and playing video games.
+
+✈️ **Travel:** Discovering new cultures, cuisines, and landscapes through travel adventures.
 
 ### 🛠️My Toolbox🧰
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
