@@ -1,0 +1,24 @@
+name: Generate GitHub Stats
+
+on:
+  push:
+    branches: [main] 
+
+jobs:
+  generate-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      - name: Generate Stats Image
+        run: |
+          curl -o stats.svg "https://github-readme-stats.vercel.app/api/top-langs/?username=ShadyWestHaze&layout=compact&count_private=true&token=${{ secrets.GH_TOKEN }}"
+
+      - name: Commit Stats Image
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git add stats.svg
+          git commit -m "Update GitHub Stats"
+          git push
